@@ -1,14 +1,15 @@
 # Kubernetes
 
-- [k/kubernetes](https://github.com/kubernetes/kubernetes) - [PRs](https://github.com/kubernetes/kubernetes/pulls) - [Issues](https://github.com/kubernetes/kubernetes/issues) - [Meeting Notes](http://bit.ly/kubenotes)
-- [k/community](https://github.com/kubernetes/community) - [PRs](https://github.com/kubernetes/community/pulls) - [Issues](https://github.com/kubernetes/community/issues)
-- [k/docs](https://github.com/kubernetes/kubernetes.github.io) - [PRs](https://github.com/kubernetes/kubernetes.github.io/pulls) - [Issues](https://github.com/kubernetes/kubernetes.github.io/issues)
+| [k/kubernetes](https://github.com/kubernetes/kubernetes) | [PRs](https://github.com/kubernetes/kubernetes/pulls) | [Issues](https://github.com/kubernetes/kubernetes/issues) | [Meeting Notes](http://bit.ly/kubenotes)
+| [k/community](https://github.com/kubernetes/community) | [PRs](https://github.com/kubernetes/community/pulls) | [Issues](https://github.com/kubernetes/community/issues) |
+| [k/docs](https://github.com/kubernetes/kubernetes.github.io) | [PRs](https://github.com/kubernetes/kubernetes.github.io/pulls) | [Issues](https://github.com/kubernetes/kubernetes.github.io/issues)
 
 ## Workflow
 
-- [Your open PRs](https://github.com/pulls)
+- [Your Reviews](https://reviewable.kubernetes.io/reviews#-)
 - [PR Dashboard](https://k8s-gubernator.appspot.com/pr)
 - [Bot commands](https://github.com/kubernetes/test-infra/blob/master/commands.md)
+- [Release Buckets](http://gcsweb.k8s.io/gcs/kubernetes-release/)
 
 ## SIGs and Working Groups
 
@@ -24,9 +25,11 @@
 
 ## Tests
 
+- [What is currently testing](https://prow.k8s.io/)
+- [Aggregated Failures](https://storage.googleapis.com/k8s-gubernator/triage/index.html)
 - [Test Grid](https://k8s-testgrid.appspot.com/)
 
 
-## Stats
+## Other
 
 - [Activity Graph](https://cncftest.io)
