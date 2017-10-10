@@ -1,5 +1,7 @@
 # Kubernetes
 
+| Repo | PRs | Issues | Notes |
+| ---- | --- | ------ | ----- |
 | [k/kubernetes](https://github.com/kubernetes/kubernetes) | [PRs](https://github.com/kubernetes/kubernetes/pulls) | [Issues](https://github.com/kubernetes/kubernetes/issues) | [Meeting Notes](http://bit.ly/kubenotes)
 | [k/community](https://github.com/kubernetes/community) | [PRs](https://github.com/kubernetes/community/pulls) | [Issues](https://github.com/kubernetes/community/issues) |
 | [k/docs](https://github.com/kubernetes/kubernetes.github.io) | [PRs](https://github.com/kubernetes/kubernetes.github.io/pulls) | [Issues](https://github.com/kubernetes/kubernetes.github.io/issues)
@@ -28,7 +30,6 @@
 - [What is currently testing](https://prow.k8s.io/)
 - [Aggregated Failures](https://storage.googleapis.com/k8s-gubernator/triage/index.html)
 - [Test Grid](https://k8s-testgrid.appspot.com/)
-
 
 ## Other
 
