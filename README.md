@@ -8,8 +8,8 @@
 
 ## Workflow
 
-- [Your Reviews](https://reviewable.kubernetes.io/reviews#-)
-- [PR Dashboard](https://k8s-gubernator.appspot.com/pr)
+- [Gubernator Dashboard - k8s.reviews](https://k8s-gubernator.appspot.com/pr)
+- [reviewable.kubernetes.io](https://reviewable.kubernetes.io/reviews#-)
 - [Bot commands](https://github.com/kubernetes/test-infra/blob/master/commands.md)
 - [Release Buckets](http://gcsweb.k8s.io/gcs/kubernetes-release/)
 
