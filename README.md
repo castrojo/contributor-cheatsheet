@@ -12,6 +12,8 @@
 - [reviewable.kubernetes.io](https://reviewable.kubernetes.io/reviews#-)
 - [Bot commands](https://github.com/kubernetes/test-infra/blob/master/commands.md)
 - [Release Buckets](http://gcsweb.k8s.io/gcs/kubernetes-release/)
+- [Developer Guide]
+  - [Cherry Picking Guide](https://github.com/kubernetes/community/blob/master/contributors/devel/cherry-picks.md) - [Queue](http://cherrypick.k8s.io/#/queue)
 
 ## SIGs and Working Groups
 
